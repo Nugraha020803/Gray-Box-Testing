@@ -136,7 +136,7 @@ Untuk menjalankan kode ini di lokal, ikuti langkah-langkah berikut:
    * Salin URL repository ini dan jalankan perintah berikut di terminal:
 
      ```
-     git clone https://github.com/username/gray-box-testing-js.git
+     git clone https://github.com/Nugraha020803/Gray-Box-Testing.git
      ```
 
 2. **Akses Folder Proyek**:
@@ -144,7 +144,7 @@ Untuk menjalankan kode ini di lokal, ikuti langkah-langkah berikut:
    * Masuk ke folder proyek yang telah di-clone:
 
      ```
-     cd gray-box-testing-js
+     cd Gray-Box-Testing
      ```
 
 3. **Jalankan Kode**:
